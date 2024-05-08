@@ -1,0 +1,5 @@
+﻿Data Source=MUKHESH_S\SQLEXPRESS01
+Initial Catalog=CarRentalSystem
+Integrated Security=True
+Encrypt=True
+Trust Server Certificate=True
